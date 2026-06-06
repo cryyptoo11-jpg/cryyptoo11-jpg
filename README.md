@@ -65,7 +65,6 @@ I am a passionate Backend Developer focused on designing and implementing scalab
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://x.com/[YOUR_X_USERNAME]" target="_blank">
-    <!-- آیکون ایکس (توییتر) برای تم تاریک گیت‌هاب بهینه‌سازی شده است -->
     <img src="https://img.icons8.com/ios-filled/50/ffffff/twitter-x--v1.png" alt="X" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://instagram.com/[YOUR_INSTAGRAM_USERNAME]" target="_blank">
