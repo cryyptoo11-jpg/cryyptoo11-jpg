@@ -59,19 +59,20 @@ I am a passionate Backend Developer focused on designing and implementing scalab
 
 <p align="left">
   <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://t.me/[YOUR_TELEGRAM_USERNAME]" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://x.com/[YOUR_X_USERNAME]" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+    <!-- آیکون ایکس (توییتر) برای تم تاریک گیت‌هاب بهینه‌سازی شده است -->
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitter-x--v1.png" alt="X" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://instagram.com/[YOUR_INSTAGRAM_USERNAME]" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="mailto:[YOUR_EMAIL]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40" style="margin-right: 10px;" />
   </a>
 </p>
 
