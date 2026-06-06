@@ -62,7 +62,7 @@ I am a passionate Backend Developer focused on designing and implementing scalab
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://t.me/[YOUR_TELEGRAM_USERNAME]" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://github.com/cryyptoo11-jpg/cryyptoo11-jpg/blob/main/icons8-telegram-logo-48.png?raw=true" alt="Telegram" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://x.com/[YOUR_X_USERNAME]" target="_blank">
     <img src="https://github.com/cryyptoo11-jpg/cryyptoo11-jpg/blob/main/icons8-x-logo-48.png?raw=true" alt="X" width="40" height="40" style="margin-right: 10px;" />
