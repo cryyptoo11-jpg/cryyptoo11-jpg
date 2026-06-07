@@ -3,14 +3,9 @@
 
 ---
 
+### 💬 About Me:
 I am a backend developer who is constantly learning and improving my skills.<br/>
 I continuously expand my expertise in API design, real-time communication systems, distributed systems, database optimization,  and scalable backend architecture.
-
-### 💡 About Me:
-- 🔭 I’m currently working on **[Project Name or Tech you are working on]**.
-- 🌱 My main focus is on backend development using **Node.js, NestJS, and TypeScript**.
-- 💬 Ask me about **backend architecture, databases, API design, and server optimization**.
-- 📫 How to reach me: **[Your Email]**
 
 ---
 
