@@ -1,7 +1,8 @@
 # Hi there, I'm Shayan Alizadeh
 ### Backend Developer 💻
 
-I am a passionate Backend Developer focused on designing and implementing scalable services, powerful APIs, and efficient software architectures. I am always eager to learn new technologies and write cleaner, more efficient code.
+I am a backend developer who is constantly learning and improving my skills.
+I am continuously expanding my expertise in API design, real-time communication systems, database optimization, distributed systems development, and building robust backend architectures.
 
 ### 💡 About Me:
 - 🔭 I’m currently working on **[Project Name or Tech you are working on]**.
