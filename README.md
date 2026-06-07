@@ -2,8 +2,8 @@
 ### Backend Developer 💻
 
 ---
-ک
-### ^_- About Me:✏✒🖋🖊🖌🖍📝🖊
+
+### 📝  About Me:
 - I am a backend developer who is constantly learning and improving my skills.<br/>
 - I continuously expand my expertise in API design, real-time communication systems, distributed systems, database optimization,  and scalable backend architecture.
 
