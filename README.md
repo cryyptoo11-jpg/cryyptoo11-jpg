@@ -2,7 +2,7 @@
 ### Backend Developer 💻
 
 I am a backend developer who is constantly learning and improving my skills.<br/>
-I am continuously expanding my expertise in API design, real-time communication systems, database optimization, distributed systems development, and building robust backend architectures.
+I continuously expand my expertise in API design, real-time communication systems, database optimization, distributed systems, and scalable backend architecture.
 
 ### 💡 About Me:
 - 🔭 I’m currently working on **[Project Name or Tech you are working on]**.
