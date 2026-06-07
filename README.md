@@ -65,15 +65,14 @@
 
 ```javascript
 const response = {
-    status : 202 ,
+    status : 200 ,
     data : {
     name : "Shayan Alizadeh",
-    skill : "Backend Developer",
-    language : "typescript , javascript , python",
-    description : {`I am a backend developer who is constantly learning and improving my 
-                   skills `, `I continuously expand my expertise in API design, real-time
-                   communication systems, database optimization, distributed systems, and
-                   scalable backend architecture`}
+    role: "Backend Developer",
+    languages: ["TypeScript", "JavaScript", "Python"],
+    description : {`I am a backend developer who is constantly learning and improving my skills `,
+                   `I continuously expand my expertise in API design, real-time communication systems,
+                    database optimization, distributed systems, and scalable backend architecture`}
     }
 };
 ```
