@@ -74,7 +74,6 @@ const response = {
     description : {`I am a backend developer who is constantly learning and improving my skills `,
                    `I continuously expand my expertise in API design, real-time communication systems,
                     database optimization, distributed systems, and scalable backend architecture`},
-    gmail : 
     }
 };
 ```
